@@ -1,0 +1,22 @@
+{
+  "name": "bv-ui-pixels-displayed",
+  "main": "index.js",
+  "version": "1.1.0",
+  "homepage": "https://github.com/bazaarvoice/bv-ui-pixels-displayed",
+  "authors": [
+    "Rebecca Murphey <rebecca.murphey@bazaarvoice.com>"
+  ],
+  "description": "A module for detecting whether an element is visible",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
