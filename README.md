@@ -8,7 +8,7 @@
 
 > A module for detecting whether an element is visible.
 
-:warning: This functionality has been added to [bv-ui-core](https://github.com/bazaarvoice/bv-ui-core) and all further improvements/changes will be done in [bv-ui-core](https://github.com/bazaarvoice/bv-ui-core) repository.
+:warning: This functionality has been added to [bv-ui-core](https://github.com/bazaarvoice/bv-ui-core) and all further improvements/changes will be carried out in [bv-ui-core](https://github.com/bazaarvoice/bv-ui-core) repository.
 
 Please consider using bv-ui-core version *0.6.0* or later.
 
